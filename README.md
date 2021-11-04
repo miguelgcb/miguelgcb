@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+
 
 <!---
 miguelgcb/miguelgcb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
